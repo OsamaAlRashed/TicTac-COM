@@ -1,0 +1,21 @@
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\bin\Debug\TicTac_O.exe.config
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\bin\Debug\TicTac_O.exe
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\bin\Debug\TicTac_O.pdb
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\obj\Debug\TicTac_O.csprojAssemblyReference.cache
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\obj\Debug\TicTac_O.Form1.resources
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\obj\Debug\TicTac_O.Properties.Resources.resources
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\obj\Debug\TicTac_O.csproj.GenerateResource.cache
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\obj\Debug\TicTac_O.csproj.CoreCompileInputs.cache
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\obj\Debug\TicTac_O.exe
+C:\Users\Osama Al-Rashed\source\repos\TicTac_O\TicTac_O\obj\Debug\TicTac_O.pdb
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\bin\Debug\TicTac_O.exe.config
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\bin\Debug\TicTac_O.exe
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\bin\Debug\TicTac_O.pdb
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.csproj.AssemblyReference.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.csproj.SuggestedBindingRedirects.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.Form1.resources
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.Properties.Resources.resources
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.csproj.GenerateResource.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.csproj.CoreCompileInputs.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.exe
+H:\مشاريع\4\مشروع البنية COM\TicTac_O\TicTac_O\obj\Debug\TicTac_O.pdb

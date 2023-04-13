@@ -1,0 +1,31 @@
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csprojAssemblyReference.cache
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\obj\Debug\TicTac_X.Form1.resources
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\obj\Debug\TicTac_X.Properties.Resources.resources
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.GenerateResource.cache
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.CoreCompileInputs.cache
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\bin\Debug\TicTac_X.exe.config
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\bin\Debug\TicTac_X.exe
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\bin\Debug\TicTac_X.pdb
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\obj\Debug\TicTac_X.exe
+C:\Users\Osama Al-Rashed\source\repos\TicTac_X\TicTac_X\obj\Debug\TicTac_X.pdb
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\bin\Debug\TicTac_X.exe.config
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\bin\Debug\TicTac_X.exe
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\bin\Debug\TicTac_X.pdb
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csprojAssemblyReference.cache
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.Form1.resources
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.Properties.Resources.resources
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.GenerateResource.cache
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.CoreCompileInputs.cache
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.exe
+G:\مشاريع\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.pdb
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\bin\Debug\TicTac_X.exe.config
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\bin\Debug\TicTac_X.exe
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\bin\Debug\TicTac_X.pdb
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.AssemblyReference.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.SuggestedBindingRedirects.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.Form1.resources
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.Properties.Resources.resources
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.GenerateResource.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.csproj.CoreCompileInputs.cache
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.exe
+H:\مشاريع\4\مشروع البنية COM\TicTac_X\TicTac_X\obj\Debug\TicTac_X.pdb
